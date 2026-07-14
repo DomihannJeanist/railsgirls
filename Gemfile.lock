@@ -153,7 +153,7 @@ GEM
       net-smtp
     marcel (1.2.1)
     matrix (0.4.3)
-    mimemagic (0.3.10)
+    mimemagic (0.4.3)
       nokogiri (~> 1)
       rake
     mini_magick (5.3.1)
@@ -172,9 +172,9 @@ GEM
       net-protocol
     net-ssh (7.3.3)
     nio4r (2.7.5)
-    nokogiri (1.18.10-x64-mingw-ucrt)
+    nokogiri (1.19.4-x64-mingw-ucrt)
       racc (~> 1.4)
-    nokogiri (1.18.10-x86_64-linux-gnu)
+    nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     parallel (1.28.0)
     parser (3.3.11.1)
@@ -335,7 +335,7 @@ DEPENDENCIES
   error_highlight (>= 0.4.0)
   importmap-rails
   jbuilder
-  mimemagic (~> 0.3.10)
+  mimemagic (~> 0.4.3)
   net-ssh
   puma (>= 5.0)
   rails (~> 7.2.3, >= 7.2.3.1)
