@@ -6,7 +6,7 @@ gem "rails", "~> 7.2.3", ">= 7.2.3.1"
 gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", ">= 1.4"
-gem "carrierwave","~> 2.0"
+gem "carrierwave","~> 3.1"
 gem "net-ssh"
 gem "mimemagic", "~> 0.3.10"
 # Use the Puma web server [https://github.com/puma/puma]
